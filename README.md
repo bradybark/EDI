@@ -11,6 +11,8 @@ Instantly calculates missing values, duplicates, and row/column counts.
 #### AI-Powered Insights:
 - **Quality Audit**: Behaves like a Data Engineer, identifying anomalies, outliers, and data consistency issues.
 - **Business Brief**: Behaves like a Business Analyst, highlighting trends, drivers, and meaningful business takeaways.
+
+#### Visualizations:
 - **Smart Visualization**: Automatically detects and plots statistically significant relationships  
   - ANOVA for categorical variables  
   - Pearson correlation for numerical variables
